@@ -1,4 +1,4 @@
-### Learning resources
+### Learning resources for Elixir and Phoenix
 
 If you're a complete newbie to elixir and phoenix, These resources could be a good start up and running.
 
